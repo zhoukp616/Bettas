@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">斗鱼</string>
+    <string name="title_home">首页</string>
+    <string name="title_live">直播</string>
+    <string name="title_video">视频</string>
+    <string name="title_notice">关注</string>
+    <string name="title_me">我的</string>
+</resources>
